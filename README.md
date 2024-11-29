@@ -14,6 +14,10 @@
   <a href="https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e">
     <img alt=Support height="390" src="https://files.catbox.moe/tjhxsh.jpg">
 
+<p align="center"> 
+<img src="./Android/database/manisha.gif" alt="Loading..." width="320"/>
+
+
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></n>
 
 <p align="center">
