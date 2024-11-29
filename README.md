@@ -8,15 +8,9 @@
 
 
 </p>
-
-</p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e">
     <img alt=Support height="390" src="https://files.catbox.moe/tjhxsh.jpg">
-
-<p align="center"> 
-<img src="./Android/database/manisha.gif" alt="Loading..." width="320"/>
-
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></n>
 
@@ -110,3 +104,6 @@ jobs:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS🫱🫲 ; FOR ; USESING ; MANISHA-MD ; WHATSAPP BOT🤖" alt="Typing SVG" /></a>
   </p>
   <a><img src= https://i.imgur.com/LyHic3i.gif /></a><a><img src= https://i.imgur.com/LyHic3i.gif /></a>
+
+<p align="center"> 
+<img src="./Android/database/manisha.gif" alt="Loading..." width="320"/>
