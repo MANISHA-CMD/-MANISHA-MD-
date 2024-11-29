@@ -4,7 +4,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
+<img src="./" alt="Loading..." width="320"/>
 
 
 </p>
