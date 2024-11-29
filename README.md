@@ -8,9 +8,6 @@
 
 
 
-<p align="center">
-
-<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
 
 </p>
 
