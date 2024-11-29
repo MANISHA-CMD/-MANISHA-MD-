@@ -80,7 +80,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful 🥷')
 console.log('Bot connected to whatsapp 🥷')
 
-let up = `🧍 *_MANISHA-MD Connected Successfully!_* 🧍 
+let up = `🥷 *_MANISHA-MD Connected Successfully!_* 🥷 
 
 --- *🥷💗 _Welcome to MANISHA-MD!_* 💗🥷
 
