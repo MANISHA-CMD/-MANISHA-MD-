@@ -7,8 +7,6 @@
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 
 
-
-
 </p>
 
 </p>
