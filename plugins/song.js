@@ -21,11 +21,11 @@ let desc = `
 
 *🎧 MANISHA-MD SONG DOWNLOADER . .⚙️*
 
-➥ *Title:* ${data.title} 
-➥ *Duration:* ${data.timestamp} 
-➥ *Views:* ${data.views} 
-➥ *Uploaded On:* ${data.ago} 
-➥ *Link:* ${data.url} 
+ℹ️ *Title:* ${data.title} 
+🕘 *Duration:* ${data.timestamp} 
+📉 *Views:* ${data.views} 
+📌 *Uploaded On:* ${data.ago} 
+🔗 *Link:* ${data.url} 
 
 > *©𝗠𝗔𝗡𝗜𝗦𝗛𝗔-𝗠𝗗*
 `
@@ -69,11 +69,11 @@ let desc = `
 
 *🎬 MANISHA-MD VIDEO DOWNLOADER . .⚙️
 
-➥ *Title:* ${data.title} 
-➥ *Duration:* ${data.timestamp} 
-➥ *Views:* ${data.views} 
-➥ *Uploaded On:* ${data.ago} 
-➥ *Link:* ${data.url} 
+ℹ️ *Title:* ${data.title} 
+🕘 *Duration:* ${data.timestamp} 
+📉 *Views:* ${data.views} 
+📌 *Uploaded On:* ${data.ago} 
+🔗 *Link:* ${data.url} 
 
 > *©𝗠𝗔𝗡𝗜𝗦𝗛𝗔-𝗠𝗗*
 `
