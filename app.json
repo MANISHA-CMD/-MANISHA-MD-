@@ -5,7 +5,6 @@
   "keywords": ["bot"],
   "success_url": "/",
 
-    "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
@@ -41,18 +40,6 @@
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
       "value": "true"
-    }, 
-    
-    "FAKE_RECORDING": {
-      "description": "Make it true if you want bot fake record.",
-      "required": true,
-      "value": "true"
-    },
-
-    "AUTO_REACT": {
-      "description": "Make it true if you want bot AutoReact.",
-      "required": true,
-      "value": "false"
     }
 
 },
