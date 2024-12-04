@@ -34,7 +34,7 @@ function startAutoBio(conn) {
     // Set a new interval to update the bio every minute (or any preferred time)
     autoBioInterval = setInterval(async () => {
         const time = new Date().toLocaleTimeString();  // Get the current time
-        const bioText = `🤩 I am using MANISHA-MD [${time}] 👨‍💻`;  // Set the bio text with time
+        const bioText = `🥷ꜱʀɪ-ʟᴀɴᴋᴀɴ ᴍᴏꜱᴛ ꜱᴘᴇᴇᴅ & ʙᴇꜱᴛ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ.✨🌷 ᴛʜɪꜱ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪꜱ ᴍᴀɴɪꜱʜᴀ ꜱᴀꜱᴍɪᴛʜᴀ.💝 (ᴍᴀɴɪꜱʜᴀ-ᴍᴅ)🌹 [${time}] 👨‍💻`;  // Set the bio text with time
         await conn.updateProfileStatus(bioText);  // Update the bot's bio
     }, 60 * 1000);  // 1 minute interval
 }
